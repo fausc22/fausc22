@@ -27,7 +27,7 @@ Me apasiona crear soluciones eficientes y escalables, especialmente sistemas emp
 - [Interfaz Panel de control TIENDA E-COMMERCE](https://github.com/fausc22/tienda-panel)
 - [Landing Page FC Software](https://github.com/fausc22/LANDING-FC_SOFTWARE)
 - [Planificador de empleados: Horarios, Recibos de Sueldo, Ingresos Egresos](https://github.com/fausc22/PryPlanificador)
-- [App PWA multi-cuentas con control financiero](https://github.com/fausc22/pwa-erp)  
+
 
 ---
 
